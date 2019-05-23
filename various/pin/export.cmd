@@ -1,0 +1,2 @@
+"C:\Program Files\Inkscape\inkscape.exe" pin.svg --export-png=".\png\pin_16.png" --export-area-page --export-width=16 --export-height=16 --without-gui
+"C:\Program Files\Inkscape\inkscape.exe" pin.svg --export-png=".\png\pin_32.png" --export-area-page --export-width=32 --export-height=32 --without-gui
