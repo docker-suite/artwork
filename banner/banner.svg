@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1241.6249"
-   height="689.80212"
-   viewBox="0 0 328.51324 182.51014"
+   width="1094.0402"
+   height="446.36349"
+   viewBox="0 0 289.46479 118.10034"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="177.25002"
-     inkscape:cy="578.90626"
+     inkscape:cx="-84.738047"
+     inkscape:cy="335.46764"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -36,8 +36,8 @@
      fit-margin-right="16"
      fit-margin-bottom="16"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
@@ -57,34 +57,35 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(285.77835,-119.49214)">
+     transform="translate(286.31075,-119.49214)">
     <g
-       id="g829">
+       id="g829"
+       transform="translate(-2.6458334,9.240209)">
       <text
          id="text817"
-         y="297"
-         x="-286.50595"
+         y="160.92857"
+         x="-150.67946"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;line-height:1.25;font-family:OldSansBlack;-inkscape-font-specification:OldSansBlack;letter-spacing:0px;word-spacing:0px;fill:#a21d21;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
            style="font-size:50.79999924px;fill:#a21d21;fill-opacity:1;stroke-width:0.26458332"
-           y="297"
-           x="-286.50595"
+           y="160.92857"
+           x="-150.67946"
            id="tspan815"
            sodipodi:role="line">Docker</tspan></text>
       <text
          id="text821"
-         y="297"
-         x="-90.185135"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;line-height:1.25;font-family:OldSansBlack;-inkscape-font-specification:OldSansBlack;letter-spacing:0px;word-spacing:0px;fill:#da1f26;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         y="213.84523"
+         x="-148.39346"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;line-height:1.25;font-family:OldSansBlack;-inkscape-font-specification:OldSansBlack;letter-spacing:0px;word-spacing:0px;fill:#a21d21;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
-           style="font-size:50.79999924px;fill:#da1f26;fill-opacity:1;stroke-width:0.26458332"
-           y="297"
-           x="-90.185135"
+           style="font-size:50.79999924px;fill:#a21d21;fill-opacity:1;stroke-width:0.26458332"
+           y="213.84523"
+           x="-148.39346"
            id="tspan819"
            sodipodi:role="line">Suite</tspan></text>
     </g>
     <g
-       transform="matrix(0.48034932,0,0,0.470826,-214.08399,149.74736)"
+       transform="matrix(0.48034932,0,0,0.470826,-311.60185,149.74736)"
        id="layer1-0"
        inkscape:label="Calque 1">
       <rect
