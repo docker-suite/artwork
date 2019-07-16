@@ -1,0 +1,2 @@
+"C:\Program Files\Inkscape\inkscape.exe" warning.svg --export-png=".\png\warning_16.png" --export-area-page --export-height=16 --without-gui
+"C:\Program Files\Inkscape\inkscape.exe" warning.svg --export-png=".\png\warning_32.png" --export-area-page --export-height=32 --without-gui
