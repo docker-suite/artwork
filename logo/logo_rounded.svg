@@ -6,8 +6,8 @@
             fill-opacity: 1
         }
     </style>
-    <rect class="red-square" x="72" y="176" width="280" height="280" />
-    <rect class="red-square" x="16" y="616" width="392" height="392" />
-    <rect class="red-square" x="408" y="16" width="600" height="600" />
+    <rect class="red-square" x="72" y="176" width="280" height="280" ry="48" rx="48" />
+    <rect class="red-square" x="16" y="616" width="392" height="392" ry="48" rx="48" />
+    <rect class="red-square" x="408" y="16" width="600" height="600" ry="48" rx="48" />
     <text fill="white" x="432" y="592" font-family="Orbitron, 'Arial Black'" font-size="22">Docker suite</text>
 </svg>
